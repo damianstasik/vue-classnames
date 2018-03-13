@@ -1,0 +1,22 @@
+{
+  "name": "vue-classnames",
+  "description": "Toggle CSS classes using props",
+  "version": "0.1.0",
+  "keywords": [
+    "vue-classnames",
+    "vue",
+    "classes",
+    "classname",
+    "classnames",
+    "prop",
+    "props"
+  ],
+  "bugs": "https://github.com/visualfanatic/vue-classnames/issues",
+  "repository": "visualfanatic/vue-classnames",
+  "license": "MIT",
+  "author": "Damian Stasik <npm@coded.pl>",
+  "main": "index.js",
+  "dependencies": {
+    "lodash.flattendeep": "^4.4.0"
+  }
+}
